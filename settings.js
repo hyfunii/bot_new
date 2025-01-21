@@ -13,12 +13,12 @@ global.ig = 'hyfunii'
 global.yt = 'Hyfunii'
 global.ttowner = 'hyfunii'
 global.ownername = 'Its Hyfunii'
-global.owner = ['0881036176037'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '0881036176037'
+global.owner = ['62881036176037'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '62881036176037'
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
-global.nodana = '0881036176037' // KOSONG KAN JIKA TIDAK ADA
+global.nodana = '62881036176037' // KOSONG KAN JIKA TIDAK ADA
 global.nogopay = '' // KOSONG KAN JIKA TIDAK ADA 
 global.noovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
@@ -27,11 +27,11 @@ global.angopay = '' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
 global.botname = "Hyfunii"
-global.ownernumber = '0881036176037'
-global.botnumber = '082333938293'
+global.ownernumber = '62881036176037'
+global.botnumber = '6282333938293'
 global.ownername = 'Hyfunii'
-global.idSaluran = "120363283540203585@newsletter"
-global.idch = "120363283540203585@newsletter"
+global.idSaluran = "120363253976199245@newsletter"
+global.idch = "120363253976199245@newsletter"
 global.namaSaluran = "Hyfunii Preset Archive (hifnyy)"
 global.linkSaluran = "https://whatsapp.com/channel/0029VaTXJxYFMqrcbP7Sr647"
 global.ownerNumber = ["62881036176037@s.whatsapp.net"]
